@@ -3,7 +3,7 @@
 
 # ファイル構成
 Rubi.Q_GameAssets : 使用した画像等の素材が保存されています。<br> 
-Rubi.Q_Games : ゲームのソースコード等のUnity6で起動するためのファイルが入っています。 <br>
+RubiQ_Version3.0 : ゲームのソースコード等のUnity6で起動するためのファイルが入っています。 <br>
 Rubi.Q_exe : 実行形式のRubi.Qゲーム本体が入っています。<br>
 
 # 各種バージョン等
